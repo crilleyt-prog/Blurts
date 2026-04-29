@@ -1,0 +1,8 @@
+blurt-boxes/
+├── package.json
+├── vite.config.ts
+├── tsconfig.json
+├── index.html
+└── src/
+    ├── main.tsx
+    └── App.tsx
